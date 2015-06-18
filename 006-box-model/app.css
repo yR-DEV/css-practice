@@ -8,7 +8,34 @@ img {
   max-width: 100%;
 }
 /* Code Under This Line */
+.a {
+  background-color: #FFED5D;
+  height: 300px;
+  margin: 25%;
+}
 
+.b {
+  background-color: #FF7050;
+  height:200px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.c {
+  background-color: #222;
+  margin: inherit;
+  height: 130px;
+  margin-bottom: 10%;
+}
+
+.d {
+  height: 80px;
+  background-color: #7BBADE;
+  margin: 10px;
+  margin-left: 10px;
+}
 /*
   Colors:
   #FFED5D
