@@ -14,3 +14,6 @@ img {
 }
 
 /* Your Code Goes Under This Line */
+.box {
+  box-shadow: 1px 1px 8px #888888;
+}

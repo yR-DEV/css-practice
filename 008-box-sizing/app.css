@@ -21,6 +21,8 @@ div {
 .column {
   float: left;
   width: 25%;
+  position:absolute;
+
 }
 
 /* Your Code Goes Under This Line */
