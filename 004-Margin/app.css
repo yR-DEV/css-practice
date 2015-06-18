@@ -12,3 +12,10 @@ img {
 }
 
 /* Code Under This Line */
+.foo {
+  margin-bottom: 20px;
+}
+
+.center {
+  margin: auto;
+}
