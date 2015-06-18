@@ -3,3 +3,23 @@ img {
 }
 
 /* Code Under This Line */
+
+.red {
+  border: 10px solid red;
+}
+
+.blue {
+  border: 10px dashed blue;
+}
+
+.green {
+  border-left: 10px solid green;
+}
+
+.flag {
+  border-top: 10px solid red;
+  border-bottom: 10px solid red;
+  border-left: 10px solid blue;
+  border-right: 10px solid blue;
+
+}
